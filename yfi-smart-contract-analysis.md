@@ -1,6 +1,4 @@
 
-# Bounty Submission
-
 ## Introduction
 
 **Protocol Name:** Yearn Finance (YFI)
